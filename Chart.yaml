@@ -1,0 +1,7 @@
+apiVersion: v2
+appVersion: "1.0"
+description: Library chart with helpers for team-based environments and other infra-related
+  things
+name: infrastructure-helper
+type: library
+version: 2.1.3
